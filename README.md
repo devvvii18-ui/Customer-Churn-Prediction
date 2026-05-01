@@ -43,7 +43,7 @@ Customer Churn Prediction Completed Successfully ✅
 
 📷 Sample Output
 
-"Output Screenshot" (output_screenshot.png)
+![Output Screenshot](output_screenshot.png)
 
 ---
 
