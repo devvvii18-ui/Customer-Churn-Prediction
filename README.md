@@ -51,7 +51,7 @@ Customer Churn Prediction Completed Successfully ✅
 
 1. Clone Repository
 
-git clone https://github.com/YOUR_USERNAME/Customer-Churn-Prediction.git
+git clone https://github.com/devvvii18-ui/Customer-Churn-Prediction.git
 
 2. Install Dependencies
 
